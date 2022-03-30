@@ -1,0 +1,16 @@
+C:\Users\Boxfusion\Desktop\practice\bin\Debug\net5.0\practice.exe
+C:\Users\Boxfusion\Desktop\practice\bin\Debug\net5.0\practice.deps.json
+C:\Users\Boxfusion\Desktop\practice\bin\Debug\net5.0\practice.runtimeconfig.json
+C:\Users\Boxfusion\Desktop\practice\bin\Debug\net5.0\practice.runtimeconfig.dev.json
+C:\Users\Boxfusion\Desktop\practice\bin\Debug\net5.0\practice.dll
+C:\Users\Boxfusion\Desktop\practice\bin\Debug\net5.0\ref\practice.dll
+C:\Users\Boxfusion\Desktop\practice\bin\Debug\net5.0\practice.pdb
+C:\Users\Boxfusion\Desktop\practice\obj\Debug\net5.0\practice.csprojAssemblyReference.cache
+C:\Users\Boxfusion\Desktop\practice\obj\Debug\net5.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boxfusion\Desktop\practice\obj\Debug\net5.0\practice.AssemblyInfoInputs.cache
+C:\Users\Boxfusion\Desktop\practice\obj\Debug\net5.0\practice.AssemblyInfo.cs
+C:\Users\Boxfusion\Desktop\practice\obj\Debug\net5.0\practice.csproj.CoreCompileInputs.cache
+C:\Users\Boxfusion\Desktop\practice\obj\Debug\net5.0\practice.dll
+C:\Users\Boxfusion\Desktop\practice\obj\Debug\net5.0\ref\practice.dll
+C:\Users\Boxfusion\Desktop\practice\obj\Debug\net5.0\practice.pdb
+C:\Users\Boxfusion\Desktop\practice\obj\Debug\net5.0\practice.genruntimeconfig.cache
